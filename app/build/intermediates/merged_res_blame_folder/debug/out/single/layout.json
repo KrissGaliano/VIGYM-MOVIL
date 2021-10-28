@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_registro.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\activity_main_registro.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_curso_detail.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\activity_curso_detail.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_recup_contra.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\activity_main_recup_contra.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_listado.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\item_listado.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_horario_profesor.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\item_horario_profesor.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_carrito.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\item_carrito.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_favoritos.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\fragment_favoritos.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_shopping.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\activity_shopping.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lista_cursos2.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\activity_lista_cursos2.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_lista_deseos.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\fragment_lista_deseos.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lista_cursos.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\activity_lista_cursos.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_inicio.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\activity_main_inicio.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_perfil.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\fragment_perfil.xml"
+    },
+    {
+        "merged": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_lista_deseos.xml",
+        "source": "C:\\4to_ciclo\\PROYECTO VIGYM-FINAL\\VIGYM\\app\\src\\main\\res\\layout\\item_lista_deseos.xml"
+    }
+]

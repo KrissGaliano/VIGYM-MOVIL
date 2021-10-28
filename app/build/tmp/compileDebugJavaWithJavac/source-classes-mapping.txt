@@ -1,0 +1,34 @@
+pe/edu/tecsup/ViGym/databinding/FragmentFavoritosBinding.java
+ pe.edu.tecsup.ViGym.databinding.FragmentFavoritosBinding
+pe/edu/tecsup/ViGym/databinding/ActivityMainRecupContraBinding.java
+ pe.edu.tecsup.ViGym.databinding.ActivityMainRecupContraBinding
+pe/edu/tecsup/ViGym/databinding/ActivityShoppingBinding.java
+ pe.edu.tecsup.ViGym.databinding.ActivityShoppingBinding
+pe/edu/tecsup/ViGym/databinding/FragmentHomeBinding.java
+ pe.edu.tecsup.ViGym.databinding.FragmentHomeBinding
+pe/edu/tecsup/ViGym/databinding/FragmentListaDeseosBinding.java
+ pe.edu.tecsup.ViGym.databinding.FragmentListaDeseosBinding
+pe/edu/tecsup/ViGym/databinding/ActivityCursoDetailBinding.java
+ pe.edu.tecsup.ViGym.databinding.ActivityCursoDetailBinding
+pe/edu/tecsup/ViGym/databinding/ActivityListaCursos2Binding.java
+ pe.edu.tecsup.ViGym.databinding.ActivityListaCursos2Binding
+pe/edu/tecsup/ViGym/databinding/ItemListaDeseosBinding.java
+ pe.edu.tecsup.ViGym.databinding.ItemListaDeseosBinding
+pe/edu/tecsup/ViGym/BuildConfig.java
+ pe.edu.tecsup.ViGym.BuildConfig
+pe/edu/tecsup/ViGym/databinding/ActivityMainInicioBinding.java
+ pe.edu.tecsup.ViGym.databinding.ActivityMainInicioBinding
+pe/edu/tecsup/ViGym/databinding/ItemListadoBinding.java
+ pe.edu.tecsup.ViGym.databinding.ItemListadoBinding
+pe/edu/tecsup/ViGym/databinding/ItemCarritoBinding.java
+ pe.edu.tecsup.ViGym.databinding.ItemCarritoBinding
+pe/edu/tecsup/ViGym/databinding/ActivityMainBinding.java
+ pe.edu.tecsup.ViGym.databinding.ActivityMainBinding
+pe/edu/tecsup/ViGym/databinding/ActivityMainRegistroBinding.java
+ pe.edu.tecsup.ViGym.databinding.ActivityMainRegistroBinding
+pe/edu/tecsup/ViGym/databinding/FragmentPerfilBinding.java
+ pe.edu.tecsup.ViGym.databinding.FragmentPerfilBinding
+pe/edu/tecsup/ViGym/databinding/ItemHorarioProfesorBinding.java
+ pe.edu.tecsup.ViGym.databinding.ItemHorarioProfesorBinding
+pe/edu/tecsup/ViGym/databinding/ActivityListaCursosBinding.java
+ pe.edu.tecsup.ViGym.databinding.ActivityListaCursosBinding
